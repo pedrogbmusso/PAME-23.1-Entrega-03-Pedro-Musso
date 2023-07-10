@@ -1,0 +1,36 @@
+.conjunto{
+    align-items: flex-star;
+    height: 10%;
+}
+
+.pesquisa{
+    border: 1px solid #f4a82c;
+    border-radius: 5px;
+    width: 40%;
+    padding: 2px 23px 2px 30px;
+    outline: 0;
+    background-color: white;
+  }
+
+  .pesquisa:hover, .pesquisa:focus {
+    border: 1.5px solid #009688;
+    background-color: #f5f8ff;
+  }
+
+.Categorias{
+    justify-content: space-between;
+}
+
+
+.botaoCategoria {
+  background-color: #f4a82c; 
+  color: white; 
+  border: 2px solid #f4a82c;
+  border-radius: 10px 5%;
+}
+
+
+.botaoCategoria:hover {
+  background-color: #f5f8ff;
+  color: black;
+}

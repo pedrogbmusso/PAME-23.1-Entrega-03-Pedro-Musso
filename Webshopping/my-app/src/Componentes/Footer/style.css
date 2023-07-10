@@ -1,0 +1,11 @@
+.InformacoesLoja {
+    position: absolute;
+    width: 100%;
+    bottom: 0px;
+    opacity: 0.8;
+    background-color: #f4a82c;
+    color: black;
+    height: 10%;
+    align-items: left;
+    font-weight: bold;
+  }
