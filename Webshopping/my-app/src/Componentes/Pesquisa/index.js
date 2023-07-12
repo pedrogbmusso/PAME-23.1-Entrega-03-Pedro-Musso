@@ -4,7 +4,7 @@ import "./style.css";
 function Pesquisa() {
   return (
     <div className='conjunto'>
-      <div>
+      <div className='EspacoBusca'>
         <input className='pesquisa' type = 'text' placeholder='Buscar itens...'></input>
       </div>
       <div className='Categorias'>             

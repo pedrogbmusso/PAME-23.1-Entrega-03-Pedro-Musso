@@ -4,15 +4,18 @@
     justify-content: space-around;
     align-items: baseline;
     overflow:hidden;
-    height: 60svh;
+    height: 100%;
+    background-color: #475ce6;
 }
 
 .ListaProdutos{
     margin: 5px;
     border: 1px solid #ccc;
+    border-radius: 5px;
     float: left;
     width: 180px;
     border-color: #047727;
+    background-color: #f4a82c;
 }
 
 .ListaProdutos:hover {

@@ -1,6 +1,11 @@
 .conjunto{
-    align-items: flex-star;
+    align-items: flex-start;
     height: 10%;
+    background-color: #475ce6;
+}
+
+.EspacoBusca{
+  justify-content: center;
 }
 
 .pesquisa{
@@ -18,7 +23,9 @@
   }
 
 .Categorias{
-    justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
 }
 
 
